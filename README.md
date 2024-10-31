@@ -31,3 +31,14 @@ Installation (Linux):
 
 ![image](https://github.com/user-attachments/assets/006c3f96-a8b1-4e91-b18e-3b4e43618a61)
 
+
+Tnanks to:
+- @RealDenied
+- Woozu
+
+Tests:
+
+![image](https://github.com/user-attachments/assets/38188d72-e9ae-4b32-b8e4-aaaca4890d49)
+
+![image](https://github.com/user-attachments/assets/b8bce3d0-9e8b-4a02-b21b-23e4a0e29a93)
+
