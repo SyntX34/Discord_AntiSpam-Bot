@@ -27,3 +27,7 @@ Installation (Linux):
 - sudo nano .env (edit stuffs)
 - python3 main.py
 
+![image](https://github.com/user-attachments/assets/1ba8df98-cd10-4195-8ee0-7fe2b2b7e6e1)
+
+![image](https://github.com/user-attachments/assets/006c3f96-a8b1-4e91-b18e-3b4e43618a61)
+
